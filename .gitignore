@@ -2,8 +2,8 @@
 *
 
 # Unignore the Research folder and all its contents
-#!Research/
-#!Research/**
+!Research/
+!Research/**
 
 # Unignore specific allowed files
 !demo.py
