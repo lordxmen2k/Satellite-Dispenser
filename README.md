@@ -2,6 +2,22 @@
 
 A custom reinforcement learning environment for training and deploying satellite dispensers using Proximal Policy Optimization (PPO). This project simulates a robotic pusher mechanism that deploys CubeSat satellites through a roll-up gate system.
 
+## Authors
+
+- Gerald Enrique Nelson Mc Kenzie (https://github.com/lordxmen2k)
+
+## Date
+
+- 2/2/2026
+
+## DOI
+
+- 10.5281/zenodo.18463459
+
+## License
+
+This project is licensed under the terms of the [Apache 2.0 License]. 
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
