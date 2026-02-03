@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Unignore the Research folder and all its contents
+#!Research/
+#!Research/**
+
+# Unignore specific allowed files
+!demo.py
+!dispenser_env.py
+!train_dispenser.py
+!evaluate_dispenser.py
+!README.md
+!requirements.txt
+!LICENSE
+!.gitignore
